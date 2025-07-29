@@ -1,7 +1,3 @@
-# tic-tac-toe-python
-Simple command-line Tic Tac Toe game using Python and NumPy
-
-
 # Tic Tac Toe (Python)
 
 🎮 A simple terminal-based Tic Tac Toe game between a user and the computer.
